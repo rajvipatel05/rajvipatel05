@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Rajvi Patel 👋
 
-<!--
-**rajvipatel05/rajvipatel05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year BTech CSE (IoT)
 
-Here are some ideas to get you started:
+## About Me
+- 🔐 Interested in Cybersecurity
+- 🤖 Building IoT and Algorithm projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Java
+- C++
+- Python
+- ESP32
+- Git & GitHub
+
+## Featured Project
+🧬 DNA Similarity Analyzer
+A Dynamic Programming project using the Longest Common Subsequence (LCS) algorithm.
